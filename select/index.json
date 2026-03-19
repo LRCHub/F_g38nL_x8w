@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アントルメ（feat. 藍月なくる）",
+  "base_artist": "Akki",
+  "createdAt": "2026-03-19T14:29:41.051116Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アントルメ (feat. 藍月なくる)",
+      "artist": "Akki",
+      "has_synced": false,
+      "path": "select/pl_01_アントルメ_(feat._藍月なくる)_Akki.txt"
+    }
+  ]
+}
